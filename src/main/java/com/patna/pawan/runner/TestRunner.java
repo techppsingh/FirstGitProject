@@ -12,6 +12,7 @@ public class TestRunner implements CommandLineRunner {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		System.out.println("hey");
+		System.out.println();
 
 	}
 
