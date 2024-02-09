@@ -10,6 +10,7 @@ public class TestRunner implements CommandLineRunner {
 		System.out.println("Welcome to SpringBoot Application");
 		System.out.println("Hello PPSingh");
 		System.out.println("Hello");
+		System.out.println("Hi");
 
 	}
 
